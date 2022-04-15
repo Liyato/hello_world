@@ -16,5 +16,6 @@ public class HelloWorld {
         System.out.println("hello world");
         System.out.println("hello worldtest");
         System.out.println("hello worldtest_hotfix");
+        System.out.println("push");
     }
 }
